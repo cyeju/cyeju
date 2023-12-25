@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43CBFF,100:9708CC&height=300&section=header&text=cYeju&fontSize=90&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43CBFF,100:9708CC&height=300&section=header&text=&fontSize=90&fontColor=ffffff" />
   </div>
 
   <h3>Front-end Developer</h3>
